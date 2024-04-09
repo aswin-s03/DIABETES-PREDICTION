@@ -9,7 +9,7 @@ This project focuses on predicting diabetes using a custom logistic regression m
 - Rigorous testing and evaluation processes.
 
 ## Dataset
-The dataset used for training and testing the model is sourced from [mention the source if applicable]. It contains [number of instances] instances with [number of features] features, including [list key features].
+The dataset contains 769 instances with 8 features.
 
 ## Getting Started
 Follow these steps to run the project locally:
